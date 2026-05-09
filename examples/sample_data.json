@@ -1,0 +1,23 @@
+[
+  {
+    "id": "ex_001",
+    "question": "What is the return policy for electronics?",
+    "context": "Electronics purchased from our store may be returned within 30 days of purchase. Items must be in original condition with all accessories and packaging. Opened software, digital downloads, and activated SIM cards are non-refundable. Defective items may be exchanged within 90 days.",
+    "answer": "Electronics can be returned within 30 days if they are in original condition with all accessories. Opened software and digital downloads cannot be refunded. Defective items can be exchanged within 90 days.",
+    "reference": "The return window for electronics is 30 days from purchase date, and items must be in original condition. Software and digital downloads are non-refundable once opened. Defective items qualify for exchange within 90 days."
+  },
+  {
+    "id": "ex_002",
+    "question": "What is the return policy for electronics?",
+    "context": "Electronics purchased from our store may be returned within 30 days of purchase. Items must be in original condition with all accessories and packaging. Opened software, digital downloads, and activated SIM cards are non-refundable.",
+    "answer": "You can return electronics within 60 days for a full refund, no questions asked. We also offer free extended warranties on all devices.",
+    "reference": "The return window for electronics is 30 days from purchase date, and items must be in original condition."
+  },
+  {
+    "id": "ex_003",
+    "question": "How do I reset my account password?",
+    "context": "To reset your password, click 'Forgot Password' on the login page. Enter your registered email address and click 'Send Reset Link'. Check your email for a link valid for 24 hours. Click the link and enter a new password of at least 8 characters with one uppercase letter and one number.",
+    "answer": "Click 'Forgot Password' on the login screen, enter your email, and check your inbox for a reset link. The link is valid for 24 hours. Your new password must be at least 8 characters and include an uppercase letter and a number.",
+    "reference": "Use the 'Forgot Password' link on the login page. Enter your email to receive a reset link valid for 24 hours. New passwords must be 8+ characters with at least one uppercase letter and one number."
+  }
+]
