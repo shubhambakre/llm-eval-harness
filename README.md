@@ -1,5 +1,9 @@
 # llm-eval-harness
 
+[![CI](https://github.com/shubhambakre/llm-eval-harness/actions/workflows/ci.yml/badge.svg)](https://github.com/shubhambakre/llm-eval-harness/actions/workflows/ci.yml)
+[![Python](https://img.shields.io/badge/python-3.11%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 A lightweight Python framework for evaluating LLM outputs using the **LLM-as-judge** pattern. Measures faithfulness, correctness, and hallucination on any question-answering or RAG system — with batch evaluation, JSON/CSV export, and a summary scorecard.
 
 ---
